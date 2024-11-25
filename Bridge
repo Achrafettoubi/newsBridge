@@ -1,0 +1,221 @@
+[33mcommit 8577e2dd7d9c52ae74ff7ce5946136e78b5e0aee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Bilal Benyoussef <129977156+Bilalben23@users.noreply.github.com>
+Date:   Thu Oct 31 13:23:17 2024 +0100
+
+    Update README.md
+
+[33mcommit 069b6f63534e855b93697db44518acbad9c8794c[m
+Author: Bilal Benyoussef <129977156+Bilalben23@users.noreply.github.com>
+Date:   Thu Oct 31 13:22:43 2024 +0100
+
+    Update README.md
+
+[33mcommit b80101747681d91bb7d6147ca5d0a3e099a65cf8[m
+Author: Bilal Benyoussef <129977156+Bilalben23@users.noreply.github.com>
+Date:   Thu Oct 31 13:21:00 2024 +0100
+
+    Update README.md
+
+[33mcommit b3a155c7d72a721a9e4ab2c0902e5c2043d191e4[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Thu Oct 31 12:25:10 2024 +0100
+
+    add go back button in article details page
+
+[33mcommit 3037d78f6cf69c64002c6b2958d23c555283040e[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Wed Oct 30 23:49:52 2024 +0100
+
+    adding Manual Chunking for better optimization
+
+[33mcommit d14dfc356e33a0aa2ec0534a815ecd00299a922b[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Wed Oct 30 23:35:18 2024 +0100
+
+    set up the project for deployment
+
+[33mcommit 7e650c42608c58761fc3f1d09a83c5e862f7442e[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Wed Oct 30 23:01:22 2024 +0100
+
+    improve readme file
+
+[33mcommit 9004cb8f9725a49901edf8357fa2e0aad1ad3064[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Wed Oct 30 22:41:29 2024 +0100
+
+    add the README.md file content and add meta tag to index html
+
+[33mcommit 6155e5881472ef71d516dd6ea5edf1fc8d695506[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Wed Oct 30 17:55:17 2024 +0100
+
+    finish the menu for small screens
+
+[33mcommit f37f996c4b5c2bdf7b9c8f08f8af0e05fcfafd63[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Wed Oct 30 15:16:16 2024 +0100
+
+    finsish the read more details about an article
+
+[33mcommit 05b04c3950d6a5fc4ecd7a2aa0c46458d11ca85e[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Wed Oct 23 12:30:24 2024 +0200
+
+    raise the state of category to the url
+
+[33mcommit 0a67c1a89b3e1bf6412ff30484f2cdb3531ee215[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Wed Oct 23 12:23:43 2024 +0200
+
+    raise the state to url
+
+[33mcommit 8f66eb91fbfc9249909969e344320c12a49018e5[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Tue Oct 22 23:18:46 2024 +0200
+
+    finish the select country modal
+
+[33mcommit 07a2c51194ba4e299b7243d971062063f4c2d58a[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Tue Oct 22 15:16:07 2024 +0200
+
+    finish the changeTheme and SlectLanguage modals
+
+[33mcommit 4e0af49df68efbb51383433c29a63b026bbadda3[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Mon Oct 21 16:34:23 2024 +0200
+
+    finish the choose theme page
+
+[33mcommit cdf1798f42267b5e179cd1bbd8a78bf15a6cc84f[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Mon Oct 21 12:22:26 2024 +0200
+
+    add dropdown menu in seperate file component
+
+[33mcommit 245c78890b176b90d43e34f8602c64be8ec3368a[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Mon Oct 21 01:25:15 2024 +0200
+
+    add the notFound page & dropdown menu
+
+[33mcommit ee7dd624294d3869ade1afe23da648f19445175c[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 22:59:05 2024 +0200
+
+    add subscription form in the footer
+
+[33mcommit e71352a128e15c6520e27cfa6b16dfad39b122a4[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 22:23:24 2024 +0200
+
+    add fetchError component
+
+[33mcommit cfeb2eedd5031fde507225c2797c702ff4235eef[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 20:42:18 2024 +0200
+
+    add social media card in the contact page
+
+[33mcommit d07f4174522f273c8e2fc8523fb3a539de2aafa9[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 19:51:40 2024 +0200
+
+    add gradient color to title and important links
+
+[33mcommit 0a3af9fcb9292a5c25692457215779f6a38c8d89[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 19:24:27 2024 +0200
+
+    finish the contact page UI
+
+[33mcommit 4e8e4bb507f7673b678f09b47c630594b77bc6fb[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 17:40:02 2024 +0200
+
+    finish about us page
+
+[33mcommit 5fbae953a4afb7ee3267a892c46c41e6d57561ec[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 15:05:28 2024 +0200
+
+    add search input in searchResults page
+
+[33mcommit 735bc00c1f085cc37da3db4166662e352a8df993[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 14:31:15 2024 +0200
+
+    add back to top button
+
+[33mcommit b46c9d73242349275250be2a3a23874075762dc6[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 14:14:07 2024 +0200
+
+    fix some problems in category and home page
+
+[33mcommit 1d378a5c6eecf77f019e956f2915bc05634d3440[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 14:03:49 2024 +0200
+
+    finish the category page
+
+[33mcommit 2b59cc0b091384d9bb99188470bf107cf689c63f[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 13:18:02 2024 +0200
+
+    add the not found page
+
+[33mcommit bc49dc969ef2a07a976b9991df17a6ab5f9d6390[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 13:15:30 2024 +0200
+
+    improve the fetch costum hook
+
+[33mcommit aa3f33075f1eaeee9a4e5bc3a8e6359f53fc8ca1[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 01:53:32 2024 +0200
+
+    finish the category filter
+
+[33mcommit 94a5e6dcfb6cd806d601bde8e86fdb4b98aab8b1[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sun Oct 20 00:06:12 2024 +0200
+
+    finish the footer
+
+[33mcommit f6de1ce3fcdb3a5b7d3fb75e086860e0f207e274[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sat Oct 19 23:31:50 2024 +0200
+
+    finish the home page cards
+
+[33mcommit e8e447b895baf9fedb67bda08e219741ab551930[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sat Oct 19 20:24:43 2024 +0200
+
+    finish the header
+
+[33mcommit c9da6f2de79d40160b3566ec442ed502651885db[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sat Oct 19 19:53:48 2024 +0200
+
+    add the router and set up the navbar
+
+[33mcommit 6611962f98a0e5fac7559415b5c329bfe66060ef[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sat Oct 19 19:44:33 2024 +0200
+
+    set up files and folder structure
+
+[33mcommit 26c1466d5500ee561cd7e02894cd96cfb7f52f5e[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sat Oct 19 18:35:48 2024 +0200
+
+    set up the project
+
+[33mcommit f2c982a5348aae96fa827d22205de3f659ff01df[m
+Author: Bilal Benyoussef <bilalbeny735@gmail.com>
+Date:   Sat Oct 19 18:29:34 2024 +0200
+
+    install the project
